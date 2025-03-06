@@ -203,33 +203,6 @@
       "description": "The Contemporary World",
       "credit": "3.0"
     },
-    {
-      "year_level": "4th",
-      "sem": "1st",
-      "code": "CC114",
-      "description": "IT Capstone Project 2",
-      "credit": "3.0"
-    },
-    {
-      "year_level": "4th",
-      "sem": "1st",
-      "code": "CC115",
-      "description": "IT Elective 3",
-      "credit": "3.0"
-    },
-    {
-      "year_level": "4th",
-      "sem": "1st",
-      "code": "GE10",
-      "description": "Gender and Society",
-      "credit": "3.0"
-    },
-    {
-      "year_level": "4th",
-      "sem": "2nd",
-      "code": "CC116",
-      "description": "Internship",
-      "credit": "6.0"
-    }
+    
   ]
 }
