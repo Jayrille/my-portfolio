@@ -1,0 +1,19 @@
+{
+    "students": [
+        {
+            "name": "Jayrille Tubera",
+            "age": 21,
+            "course": "Information Technology"
+        },
+        {
+            "name": "Missy Smith",
+            "age": 22,
+            "course": "Computer Science"
+        },
+        {
+            "name": "Vince Isaac",
+            "age": 19,
+            "course": "Data Science"
+        }
+    ]
+}
